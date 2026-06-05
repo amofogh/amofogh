@@ -1,25 +1,48 @@
 <h1 align="center">Hi 👋, I'm amirmahdi ofogh</h1>
-<h3 align="center">A passionate Back-end developer from Iran</h3>
+<h3 align="center">Backend Developer & DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amofogh&label=Profile%20views&color=0e75b6&style=flat" alt="amofogh" /> </p>
-
-- 🔭 I’m currently working on Electropeyk [Carosignalling](Caro.electropeyk.com)
-
-- 🌱 I’m currently learning Django **Django Channels and Security**
-
-- 💬 Ask me about **Python and everything about Backend in Django**
-
-- 📫 How to reach me **amir.ofogh81@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/amofogh](https://www.linkedin.com/in/amofogh)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amofogh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amofogh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/amofogh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amofogh" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amofogh&label=Profile%20views&color=0e75b6&style=flat" alt="amofogh" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amofogh&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="amofogh" /></p>
+### 🚀 About Me
+I am a **Backend Developer turned DevOps Engineer**, uniquely positioned to bridge the gap between application code and infrastructure. I combine deep knowledge of the **Django** ecosystem with modern infrastructure automation to build resilient, scalable, and secure systems.
+
+My journey from building back-end services to managing the entire delivery lifecycle allows me to optimize both the *application performance* and the *deployment pipelines*.
+
+- 🔭 **Currently working on:** Migrating and orchestrating microservices in **Kubernetes (K8s)**.
+- 🎓 **Background:** Experienced in Python/Django development, now scaling infrastructure.
+- 💬 **Ask me about:** Django optimizations, Ansible automation, and secure CI/CD pipelines.
+- ⚡ **Philosophy:** "Infrastructure should be as clean and maintainable as the application code itself."
+
+---
+
+### 🛠 Tech Stack
+
+**Backend & Application**
+- **Framework:** Python, Django (Django Channels, Security)
+- **Database:** PostgreSQL, MySQL, MongoDB, Microsoft SQL Server
+
+**DevOps & Infrastructure**
+- **Orchestration:** Kubernetes (K8s)
+- **CI/CD:** GitHub Actions, GitLab CI, Azure DevOps
+- **Configuration Management:** Ansible
+
+**Observability & Monitoring**
+- **Metrics/Logs:** Prometheus, Grafana, ELK Stack, Loki, Zabbix
+
+**DevSecOps & Security**
+- **Secrets Management:** HashiCorp Vault
+- **Code Quality:** SonarQube
+- **Vulnerability Scanning:** Trivy, Gitleaks, DefectDojo
+
+**Scripting**
+- Python, Bash
+
+---
+
+### 📫 Get in Touch
+- **Email:** amir.ofogh81@gmail.com
+- **LinkedIn:** [linkedin.com/in/amofogh](https://www.linkedin.com/in/amofogh)
