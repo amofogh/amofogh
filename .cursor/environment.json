@@ -1,0 +1,13 @@
+{
+  "name": "amofogh profile README",
+  "install": "bash .cursor/install.sh",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "grip README.md 0.0.0.0:6419"
+    }
+  ],
+  "ports": [
+    6419
+  ]
+}
